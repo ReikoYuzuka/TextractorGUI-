@@ -1,0 +1,1 @@
+由于想提取galgame的文本，没有工具，写了一个这个，把TextractorGUI的显示导出到文件
